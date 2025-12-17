@@ -1,0 +1,7 @@
+{
+  "name": "Kelp - AI Nightlife Planner",
+  "description": "Turn a vibe into a bookable night out in seconds using conversational AI. Kelp produces editable micro-itineraries for dining and entertainment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
